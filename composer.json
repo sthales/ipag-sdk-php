@@ -1,10 +1,10 @@
 {
-    "name": "jhernandes/ipag-sdk-php",
+    "name": "sthales/ipag-sdk-php",
     "license": "MIT",
     "type": "library",
     "description": "Pacote de integração para o iPag 1.0 em PHP",
     "keywords": ["ipag","gateway","integracao","sdk"],
-    "homepage": "https://github.com/jhernandes/ipag-sdk-php",
+    "homepage": "https://github.com/sthales/ipag-sdk-php",
     "authors": [
         {
             "name": "João Hernandes",
